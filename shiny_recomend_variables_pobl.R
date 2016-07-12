@@ -39,4 +39,4 @@ head(res_rating,10)$titulo
 levels(user_filtrado$ocupacion)
 library(shiny)
 runApp("D:/master/data/recomendaciones/Recomend")
-
+runGitHub( "shiny", "MontseFigueiro") 
